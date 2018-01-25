@@ -1,0 +1,30 @@
+
+<svg width="97px" height="94px" viewBox="0 0 97 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 96.7529 0 96.7529 74.416 0 74.416"></polygon>
+    </defs>
+    <g id="Options-Round-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.1">
+        <g id="Round-2:-Mobile-Portrait:-Get-Involved" transform="translate(-24.000000, -3409.000000)">
+            <g id="Online-Engagement-Copy" transform="translate(-3.000000, 3304.000000)">
+                <g id="Group" transform="translate(27.000000, 105.000000)">
+                    <g id="Computer-screen">
+                        <g id="Group-3">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-2"></g>
+                            <path d="M90.7529,0 L5.9999,0 C2.6869,0 -0.0001,3.114 -0.0001,6.955 L-0.0001,67.462 C-0.0001,71.303 2.6869,74.416 5.9999,74.416 L90.7529,74.416 C94.0659,74.416 96.7529,71.303 96.7529,67.462 L96.7529,6.955 C96.7529,3.114 94.0659,0 90.7529,0 M90.4859,6 C90.5929,6.147 90.7529,6.466 90.7529,6.955 L90.7529,67.462 C90.7529,67.95 90.5939,68.269 90.4859,68.416 L6.2659,68.416 C6.1599,68.269 5.9999,67.95 5.9999,67.462 L5.9999,6.955 C5.9999,6.466 6.1599,6.147 6.2669,6 L90.4859,6" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                        </g>
+                        <path d="M0,54.2402 L96.753,54.2402" id="Stroke-4" stroke="#FFFFFF" stroke-width="6"></path>
+                        <path d="M52.1768,63 C52.1768,65.025 50.5348,66.667 48.5098,66.667 C46.4848,66.667 44.8428,65.025 44.8428,63 C44.8428,60.975 46.4848,59.333 48.5098,59.333 C50.5348,59.333 52.1768,60.975 52.1768,63" id="Fill-6" fill="#FFFFFF"></path>
+                        <path d="M35.6763,71.167 C35.6763,76.667 30.0093,82.584 24.2593,82.584" id="Stroke-8" stroke="#FFFFFF" stroke-width="6"></path>
+                        <path d="M60.4873,71.167 C60.4873,76.667 66.1543,82.584 71.9043,82.584" id="Stroke-10" stroke="#FFFFFF" stroke-width="6"></path>
+                        <path d="M84.0098,86.834 C84.0098,89.135 82.3498,91 80.3018,91 L17.0518,91 C15.0038,91 13.3428,89.135 13.3428,86.834 C13.3428,84.532 15.0038,82.667 17.0518,82.667 L80.3018,82.667 C82.3498,82.667 84.0098,84.532 84.0098,86.834 Z" id="Stroke-12" stroke="#FFFFFF" stroke-width="6"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
